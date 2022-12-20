@@ -1,0 +1,8 @@
+[[redirects]]
+  from = "/portal"
+  to = "./Components/Portal.js"
+  status = 200
+
+  from = "/login"
+  to = "./Components/Login.js"
+  status = 200
